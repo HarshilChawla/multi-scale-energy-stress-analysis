@@ -16,7 +16,7 @@
 
 
 
-**Days 1-3: Data Processing** 
+**Days 1-3: Data Processing** --> DONE
 
 
 
@@ -32,7 +32,7 @@ Check class balance (should be 5-15% stress events)
 
 
 
-**Days 4-7: Simple Anomaly Detection**
+**Days 4-7: Simple Anomaly Detection** --> DONE
 
 
 
